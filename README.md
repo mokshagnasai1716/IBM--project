@@ -34,14 +34,19 @@ The app provides a user-friendly interface for users to input health-related dat
 3. Required Python packages (e.g., pandas, scikit-learn, dotenv)
 
 ### Steps to Run the App Locally
-1.Clone the Repository
-git clone https://github.com/ManisaiNellutla/IBM_PROJECT.git
-2.Navigate to the Project Directory:
-  cd multiple-disease-prediction-streamlit-app
-3.Install Dependencies:
-  pip install -r requirements.txt
-4.Run the Streamlit App:
-  streamlit run app.py
-5.Access the App:
-  http://localhost:8501
+1. Clone the Repository
+   git clone https://github.com/ManisaiNellutla/IBM_PROJECT.git
+
+2. Navigate to the Project Directory:
+   cd multiple-disease-prediction-streamlit-app
+
+3. Install Dependencies:
+   pip install -r requirements.txt
+
+4. Run the Streamlit App:
+   streamlit run app.py
+
+5. Access the App:
+   http://localhost:8501
+
 
