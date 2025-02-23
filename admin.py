@@ -42,7 +42,7 @@ def verify_credentials(username, password):
     """
     # Define hardcoded credentials for demonstration purposes
     valid_username = "bvrit"
-    valid_password = "manisai1432"  # Use hashed passwords in production
+    valid_password = "moksha1716"  # Use hashed passwords in production
 
     # Check if the entered credentials match the valid ones
     return username == valid_username and password == valid_password
